@@ -1,11 +1,14 @@
 # Nexus Expense 
 
-This is an console application for tracking expenses.
-Currently this app has an inbuilt three expense categories - Essential, Personal and Miscellaneous
+This is an console application for tracking expenses and budget health
 
-All the user data inputs in the application is validated for Null, Whitespaces and incorrect datatypes.
+This project is aimed to learn,familiarize and practice with the basics of C#.
 
-This project is aimed to familiarize with the basics of C# and this console application would be improved to an full fledged application in future.
+Week 1 - Datatypes, Strings, Loops and Data validation
+All the user input in the application is handled for null, whitespaces and incorrect datatypes validation.
 
+Logic - Ask the user their budget and expenses. Currently the expenses are divided into three categories - Essential, Personal and Miscellaneous. Once user enters all their expenses, we end the program with an final output. 
+
+Trying to make this project better everyday by learning new concepts in C#
 Cheers,
 Kannan AN.
